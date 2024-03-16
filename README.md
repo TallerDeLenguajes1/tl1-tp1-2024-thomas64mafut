@@ -14,4 +14,13 @@ Se utiliza principalmente en archivos con informacion sensible (credenciales, ac
 
 Dentro de ese archivo se deben listar el nombre de los archivos o directorios que git deberia ignorar, y se debe incluir dentro del repositorio este archivo .gitignore para que funcione.
 
+## Respuestas 3.g
+
+- A que se debe el resultado?
+
+Porque el puntero almacena como valor la direccion de memoria de la variable asignada.
+
+- Que obtiene en el punto 4? Es igual a las anteriores? Por que?
+
+La direccion de memoria propia del puntero, es diferente a las anteriores porque un puntero si bien esta asociado a una variable, ocupa su propia direccion en memoria diferente a la variable.
 
